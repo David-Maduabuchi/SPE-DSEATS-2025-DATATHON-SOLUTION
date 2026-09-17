@@ -18,7 +18,9 @@ Achieved 99.8% accuarcy
 
 ## Project Structure
 Data/
+
 Plots/
+
 Submission/
 
 ## Technologies
